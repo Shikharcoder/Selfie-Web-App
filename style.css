@@ -1,0 +1,21 @@
+#start-btn {
+    width: 40%;
+}
+
+#cam {
+    width: 360px;
+    height: 240px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+}
+
+#logo_img {
+    width: 150px;
+    border-radius: 150px;
+    height: 120px;
+}
+
+#textbox {
+    width: 300px;
+}
